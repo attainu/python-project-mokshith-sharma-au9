@@ -96,10 +96,10 @@
 > ![](images/snake_and_ladder_automated_project.png)
 
 ##Manual Approach
-> ![](images/snake_and_ladder_manual.png)
+> ![](images/snake_and_ladder_manual.PNG)
 
 ##Customizable Approach
-> ![](images/Customizable_snake_andLadder.png)
+> ![](images/Customizable_snake_andLadder.PNG)
 
 
 ## Python Packages & Libraries Used
