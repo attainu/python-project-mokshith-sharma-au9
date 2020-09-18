@@ -91,11 +91,11 @@
 ## Visual Guide for Command Line:
 
 > Run the appropriate commands for the Target Applications,in the Terminal.
->Automated Approach
+#Automated Approach
 > ![](images/snake_and_ladder_automated_project.png)
->Manual Approach
+#Manual Approach
 > ![](images/snake_and_ladder_manual.png)
->Customizable Approach
+#Customizable Approach
 > ![](images/Customizable_snake_andLadder.png)
 
 
