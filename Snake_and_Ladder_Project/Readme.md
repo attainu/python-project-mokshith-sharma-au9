@@ -28,12 +28,20 @@
 
 ## Snake and Ladder PROJECT:
 
-> #### Thsi project consists mainly of two components:
+> #### This project consists mainly of three components:
 	1. An Automated Approach
 	2. A Manual Approach
+	3. A Customizable Approach
 
 	Automated Approach:In The automated game the user just needs to select how many players are playing the game and the system automatically calculates the player’s position and showcases which player has won the game.
 	Manual Approach: In the manual game the user needs to enter the number of players playing the game and the name of the player. In this each action is executed on pressing the ENTER button. So if player wants to roll a dice he needs to press ENTER for the action to be performed.
+	Customizable Approach:
+		Features Added:
+        	1. Increase the Board Size.
+        	2. Adjust the Number of players that can play.
+        	3. Update the snake and Ladder position according to your choice.
+	  	4. Add the choice of your dice either 1 dice or 2 dice based on your needs.
+ 
 
 ## Difference between both approaches:
 |         	Automated         				|         		Manual         				|
@@ -83,15 +91,20 @@
 ## Visual Guide for Command Line:
 
 > Run the appropriate commands for the Target Applications,in the Terminal.
+>Automated Approach
 > ![](images/snake_and_ladder_automated_project.png)
-> ![](images/snake_and_ladder_manual)
+>Manual Approach
+> ![](images/snake_and_ladder_manual.png)
+>Customizable Approach
+> ![](images/Customizable_snake_andLadder.png)
 
 
 ## Python Packages & Libraries Used
 
-- time
-- random
-- sys
+- time: To implement the command after a certain duration
+- random: To randomly select a number
+- sys: For System specific parameter and functions
+- ast: For converting values to dictionary values
 
 ## Technologies Used:
 
@@ -115,7 +128,7 @@ https://www.geeksforgeeks.org/snake-ladder-problem-2/
 - Stackoverflow
 - RealPython
 
-## License
+## Licence
 
 MIT © [V Mokshith Sharma]()
 ![][![Windows Build Status](https://ci.appveyor.com/api/projects/status/github/akashnimare/foco?branch=master&svg=true)](https://github.com/mokshith-sharma-au9)
