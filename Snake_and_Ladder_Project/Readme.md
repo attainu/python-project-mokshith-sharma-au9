@@ -56,7 +56,7 @@
 
 - Go into the Folder containing the Project Files
   ```sh
-  cd bitcoinProject
+  cd Snake_and_Ladder_Project
   ```
 
 ##### Step 3
